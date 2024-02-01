@@ -10,6 +10,8 @@ The software takes a picture by putting all the data in ASCII, grouping all the 
 
 The software does not turn the data into a picture.
 
+The software is configured for 5*5 images.
+
 How to build a homemade digital camera:
 What you will need:
 <ul>
