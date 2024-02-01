@@ -6,6 +6,10 @@ If you are going to use this with a Raspberry Pi with ADC then you will need the
 
 If you are going to use this with an Arduino then you will need the Arduino driver.
 
+The software takes a picture by putting all the data in ASCII, grouping all the colors of each pixel into a pixel and all that data is put into a .txt file.
+
+The software does not turn the data into a picture.
+
 How to build a homemade digital camera:
 What you will need:
 <ul>
