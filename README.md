@@ -22,6 +22,10 @@ What you will need:
   <li>3 photoresistors</li>
   <li>nipkow disc</li>
 </ul>
+Test Links:
+<ul>
+  <li><a href="https://daniel-hanrahan-tools-and-games.github.io/test.html">Test Link</a></li>
+</ul>
 Steps to build your own homemade digital camera:
 <ol>
   <li>Attach lens to lens hole in box using tape or glue.</li>
