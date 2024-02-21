@@ -12,7 +12,7 @@ The software does not turn the data into a picture.
 
 The software is configured for 5*5 images.
 
-Amazon Associate identification is on the homepage and my bio.
+Amazon Associate identification is on the homepage and my profile bio.
 
 How to build a homemade digital camera:
 What you will need:
