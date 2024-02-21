@@ -12,6 +12,8 @@ The software does not turn the data into a picture.
 
 The software is configured for 5*5 images.
 
+Amazon Associate identification is on the homepage and my bio.
+
 How to build a homemade digital camera:
 What you will need:
 <ul>
@@ -21,6 +23,13 @@ What you will need:
   <li>dichroic prism</li>
   <li>3 photoresistors</li>
   <li>nipkow disc</li>
+</ul>
+Amazon Affiliate Links for things that you will need:
+<ul>
+  <li><a href="https://daniel-hanrahan-tools-and-games.github.io/DichroicPrismAmazonLink.html">dichroic prism</a></li>
+  <li><a href="https://daniel-hanrahan-tools-and-games.github.io/LensAmazonLink.html">lens</a></li>
+  <li><a href="https://daniel-hanrahan-tools-and-games.github.io/MotorAmazonLink.html">motor</a></li>
+  <li><a href="https://daniel-hanrahan-tools-and-games.github.io/PhotoresistorAmazonLink.html">photoresistors</a></li>
 </ul>
 Steps to build your own homemade digital camera:
 <ol>
