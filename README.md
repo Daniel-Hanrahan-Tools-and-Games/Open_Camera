@@ -34,6 +34,10 @@ Steps to build your own homemade digital camera:
   <li>Finally attach the nipkow disc through the middle of the disc to the motor and line the holes on the disc with the lens hole.</li>
 </ol>
 
+To use mod support you have to put the mod file in Open_Camera folder or later and the mod must be called Open_Camera_Mod.lua
+
+<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Open_Camera_Mod">Example Mod Repository Page</a>
+
 <a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Open_Camera">Repository Page</a>
 
 <a href="https://daniel-hanrahan-tools-and-games.github.io/">Home Page</a>
